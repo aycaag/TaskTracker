@@ -1,0 +1,14 @@
+/Users/aycaguler/Development /TaskTracker/bin/Debug/net8.0/TaskTracker
+/Users/aycaguler/Development /TaskTracker/bin/Debug/net8.0/TaskTracker.deps.json
+/Users/aycaguler/Development /TaskTracker/bin/Debug/net8.0/TaskTracker.runtimeconfig.json
+/Users/aycaguler/Development /TaskTracker/bin/Debug/net8.0/TaskTracker.dll
+/Users/aycaguler/Development /TaskTracker/bin/Debug/net8.0/TaskTracker.pdb
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/TaskTracker.AssemblyInfoInputs.cache
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/TaskTracker.AssemblyInfo.cs
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/TaskTracker.csproj.CoreCompileInputs.cache
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/TaskTracker.dll
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/refint/TaskTracker.dll
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/TaskTracker.pdb
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/TaskTracker.genruntimeconfig.cache
+/Users/aycaguler/Development /TaskTracker/obj/Debug/net8.0/ref/TaskTracker.dll
